@@ -1,0 +1,25 @@
+body{
+    background-color: #caf0f8;
+}
+.principal{
+    background-color:#48cae4;
+}
+.di{
+    text-align: center;
+    background-color: #0077b6;
+    border-radius: 1pc;
+    margin: 0pc 20pc 1pc 20pc;
+    padding-bottom: 1pc;
+}
+.tab{
+    background-color: #023e8a;
+    margin-right: 76.8pc;
+}
+    input[type=button]{
+        background-color: blue;
+        border: none;
+        box-shadow:4px 4px black;
+    }
+    input[type=text]{
+        width: 7pc;
+    }
