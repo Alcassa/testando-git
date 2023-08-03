@@ -23,3 +23,6 @@ body{
     input[type=text]{
         width: 7pc;
     }
+    h1{
+        color: red;
+    }
